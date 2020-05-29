@@ -13,7 +13,7 @@
         "themes": [
             {
                 "label": "LifeOfCoding",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs-dark-lifeofcoding",
                 "path": "./themes/LifeOfCoding-color-theme.json"
             }
         ]
